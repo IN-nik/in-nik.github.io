@@ -25,17 +25,16 @@ Present <br>
 Data Analyst <br>
 Data Analysis research for sustainability <br>
 
-### GRACE RIDES LTD
-9 years 2 months <br>
-1. Data Specialist
+### Grace Rides Ltd
+1. Data Specialist <br>
 March 2022 - Present (1 year 3 months) <br>
 London, England, United Kingdom <br>
 
-2. Consultant
+2. Consultant <br>
 June 2018 - March 2022 (3 years 10 months) <br>
 Manchester, England, United Kingdom <br>
 
-3. Consultant
+3. Consultant <br>
 April 2014 - March 2022 (8 years) <br>
 - Organizing and executing assigned business projects on behalf of clients according to client’s requirements
 - Meeting with assigned clients when needed and perform an initial assessment of a problematic situation
@@ -43,7 +42,7 @@ April 2014 - March 2022 (8 years) <br>
 
 4. Principal Consultant <br>
 April 2014 - March 2022 (8 years) <br>
-Manchester Metropolitan Area v
+Manchester Metropolitan Area <br>
 
 ### UBER
 Business Analyst <br>
@@ -55,7 +54,7 @@ Manchester Metropolitan Area <br>
 - Within these most successful businesses cover: Account solutions, business consultancy, outsourcing, facility management, auditing, professional networking and combined services, finance, wealth management, financial Page 2 of 4advice and not forgetting the limitless opportunities that grew from their prestigious member’s only club
 
 ### Amazon
-1. Supply Chain Consultant
+1. Supply Chain Consultant <br>
 June 2018 - June 2019 (1 year 1 month) <br>
 Stoke-on-Trent, England, United Kingdom <br>
 - Increased the reach and revenue of JCB portfolio through licensing agreements in Eastern Europe & Russia
