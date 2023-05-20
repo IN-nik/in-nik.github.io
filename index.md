@@ -20,8 +20,11 @@
 
 ## Professional Experience
 
-### 2023 Around Zero Ltd | Data Analyst
-- Data Analysis research for sustainability
+### Around Zero Ltd
+Present <br>
+Data Analyst <br>
+Data Analysis research for sustainability <br>
+
 ### GRACE RIDES LTD
 9 years 2 months <br>
 1. Data Specialist
