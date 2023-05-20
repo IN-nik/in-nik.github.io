@@ -5,7 +5,7 @@
 - Experienced in creating effective data visualizations using tools such as Tableau, Power BI, and ggplot2
 - Familiar with software engineering principles and proficient in Python programming language
 - Able to design and implement secure and scalable database systems using SQL and NoSQL
-- Familiar with machine learning algorithms and deep learning techniques, with experience in using libraries like sci-kit-learn and TensorFlow to build classification, regression, and clustering models
+- Familiar with ML algorithms and deep learning techniques, with experience in using libraries like scikit-learn and TensorFlow to build classification, regression, and clustering models
 ---
 
 ## Transferable Skills
@@ -117,20 +117,19 @@ Dammam, Eastern, Saudi Arabia
 ---
 
 ## Education
-- University of Sunderland
-Master of Science - MS, Computer science with Data Science.
-(January 2021 - January 2023)
-- Symbiosis Institute of International Business
-Master's Diploma, International Business/Trade/Commerce
-(1994 - 1995)
-- N. M. Institute of Management Studies
-Master's degree, Business Administration and Management
-(1992 - 1994)
-- Symbiosis College of Arts & Commerce
-Master's degree, Business/Commerce, General
-(1989 - 1993)
-- Delhi Public School - India
-Higher Secondary Education, Business Administration and Management,
-(1985 - 1989)
-
+- University of Sunderland <br>
+Master of Science - MS, Computer science with Data Science <br>
+(January 2021 - January 2023)<br>
+- Symbiosis Institute of International Business <br>
+Master's Diploma, International Business/Trade/Commerce <br>
+(1994 - 1995) <br>
+- N. M. Institute of Management Studies <br>
+Master's degree, Business Administration and Management <br>
+(1992 - 1994) <br>
+- Symbiosis College of Arts & Commerce <br>
+Master's degree, Business/Commerce, General <br>
+(1989 - 1993) <br>
+- Delhi Public School - India <br>
+Higher Secondary Education, Business Administration and Management <br>
+(1985 - 1989) <br>
 ---
