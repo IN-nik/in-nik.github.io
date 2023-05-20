@@ -114,4 +114,22 @@ Master's degree, Business/Commerce, General <br>
 - Delhi Public School - India <br>
 Higher Secondary Education, Business Administration and Management <br>
 (1985 - 1989) <br>
+
 ---
+
+## Achievements & Volunteering
+- Awarded with Appreciation for controlling the stock department in Tesco PLC
+- Active member of Grace Community Global charitable trust as UK Coordinator
+- Active Consultant of St. Mary’s Consultancy facilitating students for higher education
+
+
+---
+
+## Hobbies & Interests
+- Chess enthusiast, enjoying playing and studying chess, and perhaps even competing in local tournaments or online matches.
+- Extensive reader in economics and finance, with a passion for learning about these topics through books, articles, and blogs.
+- Globe trotter who loves to travel and explore different parts of the world, immersing myself in different cultures.
+- Nature lover who enjoys spending time in nature, whether hiking, camping, or simply walking in the park.
+- Language enthusiast with a keen interest in learning new languages and immersing myself in different cultures.
+- Passion for driving, exploring new roads and highways, taking road trips, and participating in driving events.
+- Building PC from scratch, good at hardware understanding
