@@ -6,6 +6,7 @@
 - Familiar with software engineering principles and proficient in Python programming language
 - Able to design and implement secure and scalable database systems using SQL and NoSQL
 - Familiar with ML algorithms and deep learning techniques, with experience in using libraries like scikit-learn and TensorFlow to build classification, regression, and clustering models
+
 ---
 
 ## Transferable Skills
@@ -22,41 +23,29 @@
 ### 2023 Around Zero Ltd | Data Analyst
 - Data Analysis research for sustainability
 ### GRACE RIDES LTD
-9 years 2 months
-
+9 years 2 months <br>
 1. Data Specialist
-
-March 2022 - Present (1 year 3 months)
-
-London, England, United Kingdom
+March 2022 - Present (1 year 3 months) <br>
+London, England, United Kingdom <br>
 
 2. Consultant
-
-June 2018 - March 2022 (3 years 10 months)
-
-Manchester, England, United Kingdom
+June 2018 - March 2022 (3 years 10 months) <br>
+Manchester, England, United Kingdom <br>
 
 3. Consultant
-
-April 2014 - March 2022 (8 years)
-
+April 2014 - March 2022 (8 years) <br>
 - Organizing and executing assigned business projects on behalf of clients according to client’s requirements
 - Meeting with assigned clients when needed and perform an initial assessment of a problematic situation
 - Collecting information about the client’s business through a variety of methods (shadowing, interviews, surveys, reading reports etc.)
 
-4. Principal Consultant
-
-April 2014 - March 2022 (8 years)
-
-Manchester Metropolitan Area
+4. Principal Consultant <br>
+April 2014 - March 2022 (8 years) <br>
+Manchester Metropolitan Area v
 
 ### UBER
-Business Analyst
-
-June 2019 - March 2022 (2 years 10 months)
-
-Manchester Metropolitan Area
-
+Business Analyst <br>
+June 2019 - March 2022 (2 years 10 months) <br>
+Manchester Metropolitan Area <br>
 - Created framework for boosting partnerships and expanding technologies needed to improve the passenger vehicle experience and generate additional revenue for Smart Mobility in Europe
 - Produced and presented prototypes of new technologies to executives using insight from user/industry research
 - Working as an independent consultant for developing new business for one of Milton Keynes most diverse companies which have successfully grown through its 2 decades of business across the UK by meeting and exceeding the growing demands of the new and existing target audience. Therefore it has grown organically with the growing demand of business by developing innovative solutions and strategies, hence growing their vast array of portfolio of companies, 29 to be precise
@@ -64,11 +53,8 @@ Manchester Metropolitan Area
 
 ### Amazon
 1. Supply Chain Consultant
-
-June 2018 - June 2019 (1 year 1 month)
-
-Stoke-on-Trent, England, United Kingdom
-
+June 2018 - June 2019 (1 year 1 month) <br>
+Stoke-on-Trent, England, United Kingdom <br>
 - Increased the reach and revenue of JCB portfolio through licensing agreements in Eastern Europe & Russia
 - Analysed how the key drivers of each innovative platform impact the value proposition of the core products
 - Enhance internal cross functional alignment and delivered a consultancy report with strategic recommendations to highlight possible commercialization models that could increase market penetration and generate new revenue streams
@@ -77,18 +63,14 @@ Stoke-on-Trent, England, United Kingdom
 - Identified potential partners to explore new business opportunities
 
 2. Busines Consultant
-
-June 2018 - June 2019 (1 year 1 month)
-
-Stoke-on-Trent, England, United Kingdom
+June 2018 - June 2019 (1 year 1 month) <br>
+Stoke-on-Trent, England, United Kingdom <br>
 
 
 ### TESCO
-Senior Team Leader Stock Controller
-
-October 2006 - June 2018 (11 years 9 months)
-
-Manchester, England, United Kingdom
+Senior Team Leader Stock Controller <br>
+October 2006 - June 2018 (11 years 9 months) <br>
+Manchester, England, United Kingdom <br>
 
 - Forecasting supply and demand to prevent over and under stocking
 - Submitting purchase details to internal databases
@@ -96,11 +78,9 @@ Manchester, England, United Kingdom
 
 
 ### Saudi Automobile Federation
-International Freight Forwarder
-
-August 1995 - August 2006 (11 years 1 month)
-
-Dammam, Eastern, Saudi Arabia
+International Freight Forwarder <br>
+August 1995 - August 2006 (11 years 1 month) <br>
+Dammam, Eastern, Saudi Arabia <br>
 
 - Offering advice to shipper
 - Booking fright space on the modes of transportation
