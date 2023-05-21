@@ -2,7 +2,7 @@
 
 ### How Does the Decision Support System Assist Investors in Making Smarter Financial Decisions?
 
-<a href="https://www.linkedin.com/in/mathai-sibu-k-b16965196/" target="_blank">View Article on Medium</a>
+<a href="https://medium.com/@kmsibu/how-does-the-decision-support-system-assist-investors-in-making-smarter-financial-decisions-5f17f8d885a" target="_blank">View Article on Medium</a>
 
 
 ## Software Expertise
