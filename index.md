@@ -20,11 +20,6 @@
 
 ## Professional Experience
 
-### Around Zero Ltd
-Present <br>
-Data Analyst <br>
-Data Analysis research for sustainability <br>
-
 ### Grace Rides Ltd
 1. Data Specialist <br>
 March 2022 - Present (1 year 3 months) <br>
