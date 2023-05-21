@@ -1,9 +1,13 @@
 ## Selected projects in data science, machine learning and NLP
 
+--- 
 ### How Does the Decision Support System Assist Investors in Making Smarter Financial Decisions?
+
+DSS tools provide investors with strategies for making informed decisions in a disciplined manner. These tools are especially useful due to the increasing number of investment options and vast amounts of market data. Financial tools within DSSs help investors determine how to invest their funds, whether they are individuals or larger investment organizations. The challenge lies in designing DSS tools that consider investors' preferences and goals while helping them overcome biases and cognitive limitations. As a result, DSS-equipped investors have improved the quality of their investment decisions, leading to increased earnings and decreased risk.
 
 <a href="https://medium.com/@kmsibu/how-does-the-decision-support-system-assist-investors-in-making-smarter-financial-decisions-5f17f8d885a" target="_blank">View Article on Medium</a>
 
+---
 
 ## Software Expertise
 - Proficient in data science principles, including statistical analysis, data pre-processing, cleaning, visualization, and exploration
@@ -28,6 +32,8 @@
 
 ## Professional Experience
 
+---
+
 ### Grace Rides Ltd
 1. Data Specialist <br>
 March 2022 - Present (1 year 3 months) <br>
@@ -47,6 +53,8 @@ April 2014 - March 2022 (8 years) <br>
 April 2014 - March 2022 (8 years) <br>
 _Manchester Metropolitan Area_ <br>
 
+---
+
 ### UBER
 Business Analyst <br>
 June 2019 - March 2022 (2 years 10 months) <br>
@@ -55,6 +63,8 @@ _Manchester Metropolitan Area_ <br>
 - Produced and presented prototypes of new technologies to executives using insight from user/industry research
 - Working as an independent consultant for developing new business for one of Milton Keynes most diverse companies which have successfully grown through its 2 decades of business across the UK by meeting and exceeding the growing demands of the new and existing target audience. Therefore it has grown organically with the growing demand of business by developing innovative solutions and strategies, hence growing their vast array of portfolio of companies, 29 to be precise
 - Within these most successful businesses cover: Account solutions, business consultancy, outsourcing, facility management, auditing, professional networking and combined services, finance, wealth management, financial Page 2 of 4advice and not forgetting the limitless opportunities that grew from their prestigious member’s only club
+
+---
 
 ### Amazon
 1. Supply Chain Consultant <br>
@@ -72,6 +82,8 @@ June 2018 - June 2019 (1 year 1 month) <br>
 _Stoke-on-Trent, England, United Kingdom_ <br>
 
 
+---
+
 ### TESCO
 Senior Team Leader Stock Controller <br>
 October 2006 - June 2018 (11 years 9 months) <br>
@@ -81,6 +93,7 @@ _Manchester, England, United Kingdom_ <br>
 - Submitting purchase details to internal databases
 - Placing orders to replenish merchandise as needed
 
+---
 
 ### Saudi Automobile Federation
 International Freight Forwarder <br>
