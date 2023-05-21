@@ -23,11 +23,11 @@
 ### Grace Rides Ltd
 1. Data Specialist <br>
 March 2022 - Present (1 year 3 months) <br>
-London, England, United Kingdom <br>
+_London, England, United Kingdom_ <br>
 
 2. Consultant <br>
 June 2018 - March 2022 (3 years 10 months) <br>
-Manchester, England, United Kingdom <br>
+_Manchester, England, United Kingdom_ <br>
 
 3. Consultant <br>
 April 2014 - March 2022 (8 years) <br>
@@ -37,12 +37,12 @@ April 2014 - March 2022 (8 years) <br>
 
 4. Principal Consultant <br>
 April 2014 - March 2022 (8 years) <br>
-Manchester Metropolitan Area <br>
+_Manchester Metropolitan Area_ <br>
 
 ### UBER
 Business Analyst <br>
 June 2019 - March 2022 (2 years 10 months) <br>
-Manchester Metropolitan Area <br>
+_Manchester Metropolitan Area_ <br>
 - Created framework for boosting partnerships and expanding technologies needed to improve the passenger vehicle experience and generate additional revenue for Smart Mobility in Europe
 - Produced and presented prototypes of new technologies to executives using insight from user/industry research
 - Working as an independent consultant for developing new business for one of Milton Keynes most diverse companies which have successfully grown through its 2 decades of business across the UK by meeting and exceeding the growing demands of the new and existing target audience. Therefore it has grown organically with the growing demand of business by developing innovative solutions and strategies, hence growing their vast array of portfolio of companies, 29 to be precise
@@ -51,7 +51,7 @@ Manchester Metropolitan Area <br>
 ### Amazon
 1. Supply Chain Consultant <br>
 June 2018 - June 2019 (1 year 1 month) <br>
-Stoke-on-Trent, England, United Kingdom <br>
+_Stoke-on-Trent, England, United Kingdom_ <br>
 - Increased the reach and revenue of JCB portfolio through licensing agreements in Eastern Europe & Russia
 - Analysed how the key drivers of each innovative platform impact the value proposition of the core products
 - Enhance internal cross functional alignment and delivered a consultancy report with strategic recommendations to highlight possible commercialization models that could increase market penetration and generate new revenue streams
@@ -61,13 +61,13 @@ Stoke-on-Trent, England, United Kingdom <br>
 
 2. Busines Consultant
 June 2018 - June 2019 (1 year 1 month) <br>
-Stoke-on-Trent, England, United Kingdom <br>
+_Stoke-on-Trent, England, United Kingdom_ <br>
 
 
 ### TESCO
 Senior Team Leader Stock Controller <br>
 October 2006 - June 2018 (11 years 9 months) <br>
-Manchester, England, United Kingdom <br>
+_Manchester, England, United Kingdom_ <br>
 
 - Forecasting supply and demand to prevent over and under stocking
 - Submitting purchase details to internal databases
@@ -77,7 +77,7 @@ Manchester, England, United Kingdom <br>
 ### Saudi Automobile Federation
 International Freight Forwarder <br>
 August 1995 - August 2006 (11 years 1 month) <br>
-Dammam, Eastern, Saudi Arabia <br>
+_Dammam, Eastern, Saudi Arabia_ <br>
 
 - Offering advice to shipper
 - Booking fright space on the modes of transportation
@@ -96,19 +96,19 @@ Dammam, Eastern, Saudi Arabia <br>
 ## Education
 - University of Sunderland <br>
 Master of Science - MS, Computer science with Data Science <br>
-(January 2021 - January 2023)<br>
+_(January 2021 - January 2023)_ <br>
 - Symbiosis Institute of International Business <br>
 Master's Diploma, International Business/Trade/Commerce <br>
-(1994 - 1995) <br>
+_(1994 - 1995)_ <br>
 - N. M. Institute of Management Studies <br>
 Master's degree, Business Administration and Management <br>
-(1992 - 1994) <br>
+_(1992 - 1994)_ <br>
 - Symbiosis College of Arts & Commerce <br>
 Master's degree, Business/Commerce, General <br>
-(1989 - 1993) <br>
+_(1989 - 1993)_ <br>
 - Delhi Public School - India <br>
 Higher Secondary Education, Business Administration and Management <br>
-(1985 - 1989) <br>
+_(1985 - 1989)_ <br>
 
 ---
 
