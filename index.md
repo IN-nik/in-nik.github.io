@@ -1,3 +1,10 @@
+## Selected projects in data science, machine learning and NLP
+
+### How Does the Decision Support System Assist Investors in Making Smarter Financial Decisions?
+
+<a href="https://www.linkedin.com/in/mathai-sibu-k-b16965196/" target="_blank">View Article on Medium</a>
+
+
 ## Software Expertise
 - Proficient in data science principles, including statistical analysis, data pre-processing, cleaning, visualization, and exploration
 - Skilled in R programming language for data manipulation, visualization, and modelling
